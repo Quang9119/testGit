@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trieu e đã cô gáng
+=======
+trieu
+>>>>>>> 72eca831ad57b565a7bc9706848c60c3415c060b
